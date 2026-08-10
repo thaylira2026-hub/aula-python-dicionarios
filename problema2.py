@@ -22,6 +22,3 @@ palavras = {
 
 resultado = inverter_dicionario(palavras)
 print(resultado)
-
-# Saída:
-# {'casa': ['house', 'home'], 'cachorro': 'dog', 'livro': 'book'}
